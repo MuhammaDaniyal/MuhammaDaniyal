@@ -1,27 +1,63 @@
-# 💫 About Me:
-</> I'm currently working on C++<br>🔗 I'm looking to collaborate with C++ developers<br>💬 Ask me about C++ and SFML<br>📫 How to reach me: daniyal2771@gmail.com
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammaDaniyal) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammaDaniyal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammaDaniyal&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammaDaniyal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MuhammaDaniyal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MuhammaDaniyal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <h1>👋 Hi, I'm Muhammad Daniyal</h1>
+  <h3>C++ | CUDA | Java Developer | BSCS'27 @ FAST (NUCES)</h3>
+  
+  <p>
+    Passionate about <b>Systems Programming</b>, <b>GPU Optimization</b>, and <b>Web Development</b>
+  </p>
+  
+  <p>
+    <a href="mailto:daniyal2771@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MuhammaDaniyal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,react,tailwind,linux,git,postgres&perline=12" alt="Tech Stack" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white" alt="SFML" />
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=MuhammaDaniyal&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammaDaniyal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  </a>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MuhammaDaniyal/MuhammaDaniyal/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=MuhammaDaniyal&style=flat-square&color=00D9FF" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ Focused on clean code, solid fundamentals, and real projects ⭐</i>
+</div>
